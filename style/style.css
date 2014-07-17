@@ -1,0 +1,132 @@
+body, html {
+	height: 100%;
+}
+
+body {
+	/*background-color: transparent;*/
+	font-family: Merriweather, sans-serif;
+}
+/*nav {
+	background-color: GoldenRod;
+	list-style-type: none;
+	width: 100%;
+	text-align: right;
+
+	
+}
+nav ul li {
+	background-color: GoldenRod;
+	color: white;
+	display: inline;
+	line-height: 300%;
+	padding-right: 10px;
+    /*float: right;*/
+/*}*/
+
+ul {
+    list-style-type: none;
+}
+
+#top {
+	/*margin: 0 auto;*/
+	text-align: center;
+	height: 100%;
+	color: white;
+	background: url(../img/personal4.jpg) no-repeat center center fixed;
+	/*background-height: 100%;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	/*background-size: 100%;*/
+	/*margin-top: 0%;*/
+
+	
+	/*doesnt work*/
+}
+.firstheader {
+
+	color: white;
+	margin-top: 0em;
+	background-color: rgba(54, 25, 25, .7);
+	margin-bottom: 10%
+}
+
+
+.currentprojects {
+	/*display: block;*/
+	font-weight: bold;
+	/*text-align: center;*/
+	background-color: rgba(54, 25, 25, .7);
+	/*margin: 0 auto;*/
+}
+
+.datetitle{
+	font-size: 150%;
+}
+
+#education {
+	background: url(../img/educationimg.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: black;
+	line-height: 230%;
+
+}
+
+#educationtitle {
+	background: rgba(54, 25, 25, .7);
+}
+.workexperience {
+	line-height: 200%;
+	background-color: GoldenRod;
+
+
+}
+
+.maintitle {
+	color: white;
+	background-color: black;
+	margin :0;
+	line-height: 160%
+
+}
+
+
+
+.blurr {
+	background: rgba(54, 25, 25, .5);
+}
+#educationinfo {
+	color: white;
+	font-family: Merriweather bold, sans-serif;
+	font-size: 200%
+
+
+}
+#experiences{
+	font-size: 125%;
+	line-height: 200%;
+	height: 60%;
+}
+
+.date{
+	font-style: italic;
+	/*doesnt work*/
+}
+
+.boldtitle{
+	font-weight: bold;
+}
+
+.firstheader h1 {
+	/*background-color: blue;*/
+	margin: 0em;
+
+}div {
+	display: inline-block;
+}
+
+
+
