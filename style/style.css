@@ -47,6 +47,8 @@ ul {
 
 	color: white;
 	margin-top: 0em;
+	padding-left: 1%;
+	padding-right: 1%;
 	background-color: rgba(54, 25, 25, .7);
 	margin-bottom: 10%
 }
